@@ -32,7 +32,7 @@
 }
 
 .headerIcon {
-  height: 32px;
+  height: 64px;
   width: auto;
   margin-left: 36px;
 }
@@ -41,7 +41,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-right: 800px;
+  margin-right: 40px;
 }
 
 .shareButton {
